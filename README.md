@@ -64,6 +64,7 @@ emotional tone.
 * Reviews AI-tagged complaint dashboard daily
 * Instantly identifies Critical/Urgent complaints
 * Avoids manually reading hundreds of complaints
+
 **Benefit:**
  Reduces manual triage time by nearly **80%**
 
@@ -76,6 +77,7 @@ emotional tone.
 * Submits complaints in plain natural language
 * AI automatically detects department and urgency
 * No need to manually select departments or categories
+
 **Benefit:**
  Faster complaint acknowledgment and routing
 
@@ -88,6 +90,7 @@ emotional tone.
 * Analyzes complaint sentiment across Bengaluru wards
 * Tracks departments receiving the most critical complaints
 * Monitors trends and service improvements over time
+
 **Benefit:**
  Enables data-driven governance and policy decisions
 
