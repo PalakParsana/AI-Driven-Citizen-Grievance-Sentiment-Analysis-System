@@ -1,0 +1,35 @@
+## Core Data Science
+pandas
+numpy
+
+## NLP Libraries
+nltk
+spacy
+textblob
+
+## Machine Learning
+scikit-learn
+xgboost
+
+## Transformers (BERT) - Week 3
+transformers
+torch
+
+## Visualization
+matplotlib
+seaborn
+wordcloud
+plotly
+
+## API Deployment - Week 4
+fastapi
+uvicorn
+pydantic
+
+## Jupyter
+jupyternotebook
+ipykernel
+
+## Utilities
+python-dotenv
+tqdm
