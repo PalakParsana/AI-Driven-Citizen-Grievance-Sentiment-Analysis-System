@@ -190,6 +190,5 @@ def generate_dataset(n_rows=3000):
     print(f"   Cities          : {df['city'].nunique()} cities")
     return df
 
-
 if __name__ == "__main__":
     generate_dataset(n_rows=3000)
